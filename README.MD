@@ -8,4 +8,4 @@ Work is based on https://github.com/dragonxtek/iperf_dissector
 To install, just copy the LUA file to .\App\Wireshark\plugins directory.
 
 NOTE: the dissector does NOT support the --udp-counters-64bit option yet.
-
+NOTE: the dissector only decodes timestamp and sequence number. No other fields.
