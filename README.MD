@@ -9,3 +9,8 @@ To install, just copy the LUA file to .\App\Wireshark\plugins directory.
 
 NOTE: the dissector does NOT support the --udp-counters-64bit option yet.
 <BR>NOTE: the dissector only decodes timestamp and sequence number. No other fields.
+  
+Example:
+  
+  
+  ![alt text](https://github.com/geertn444/iperf3_dissector/blob/master/example.png)
